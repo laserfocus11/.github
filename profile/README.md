@@ -1,27 +1,25 @@
-## Welcome to laserfocus 🚀
+# The path to success starts with laserfocus.
 
-At laserfocus, our mission is to provide innovative solutions that promote a new way of thinking and approaching your goals. We believe that with the right tools and support, anything is possible.
+### About Us
 
-### About Us 💡
+At laserfocus our mission is to provide innovative solutions that promote a new way of thinking and approaching your goals. 
 
-Founded in 2022 and based in Escazu, San Jose, Costa Rica, we're dedicated to helping our users harness their full potential and make their dreams a reality. Our philosophy is simple yet powerful:
+We want our users to harness their full potential and make their dreams a reality as we believe that with the right tools and support anything is possible.
 
-> The path to success starts with laserfocus.
+Everything standing between you and your goals is laserfocus.
 
-### What We Do 🔍
+### Data Privacy
 
-We specialize in technology, information, and internet solutions designed to empower individuals and organizations to achieve their objectives with clarity and precision.
+We also firmly believe in the ownership of your data. Nowadays, too much of your data is stored on another’s machine without a second thought, and with it goes your intellectual property.
+
+With laserfocus, you choose what data you are storing and can actually use it to benefit you and your projects.
+
+Welcome to the new age of human computer interaction, the symbiosis.
 
 ### Connect With Us 🌐
-
+- [Email us]()
 - [LinkedIn](https://www.linkedin.com/company/laserfocused/)
 - [Instagram](https://www.instagram.com/laserfocuscr/)
 - [Website](https://laserfocus.space)
 
-### Our Team 👥
-
-We're a small but dedicated team of professionals passionate about creating impactful solutions.
-
 ---
-
-*"The path to success starts with laserfocus."*
