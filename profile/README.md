@@ -6,7 +6,7 @@ At laserfocus our mission is to provide innovative solutions that promote a new 
 
 We want our users to harness their full potential and make their dreams a reality as we believe that with the right tools and support anything is possible.
 
-Everything standing between you and your goals is laserfocus.
+Everything standing between you and your goals is **laserfocus**.
 
 ### Data Privacy
 
